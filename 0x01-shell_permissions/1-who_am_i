@@ -1,0 +1,2 @@
+#!/bin/bash
+current_user=$(1-who_am_i)
